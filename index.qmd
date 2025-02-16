@@ -1,0 +1,37 @@
+---
+about:
+  template: solana
+  id: about-block
+  image: "img/my_image.jpeg"
+  links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/nnmehta08?igsh=MXFmeDZuMnY0Z25qMg%3D%3D&utm_source=qr
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nihit-mehta-do-mph-a99a66132/
+    - icon: envelope
+      text: Email
+      href: "mailto:nnm32@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Step Into My World: Explore, Discover, Enjoy!
+
+::: {style="margin: 30px; text-align: justify;"}
+Hello, my name is Nihit, and I am a healthcare worker hoping to make a transition into the field of technology through biostatistics and informatics on a larger scale. I earned my medical degree from the University of New England, College of Osteopathic Medicine, in 2019, and went on to complete a residency in Family Medicine until 2023. During my years of clinical training, I realized that my true calling lies in preventive medicine. I am passionate about helping people adopt healthier lifestyles and prevent chronic diseases such as diabetes through education and lifestyle modification.
+
+As part of my work, I guide patients in adopting healthier eating habits and creating personalized exercise routines that promote long-term well-being. I believe that prevention is key to improving public health, and I aim to incorporate innovative technologies, including bioinformatics, to help track, analyze, and optimize these interventions. My interest in technology comes from the desire to take a more data-driven, scalable approach to healthcare—especially as we move towards a more personalized, preventative model in medicine.
+
+Outside of work, I am deeply passionate about various creative pursuits, including cooking, sketching, poetry, and painting. My Instagram profile is a collection of memories that reflect these interests, as well as my philosophy on life. I enjoy working at my own pace and often find myself more productive in solo settings rather than large team environments. Recently, I’ve also become more involved in meditation, as I believe it not only enhances my personal well-being but can also be a valuable tool to offer my patients as part of a holistic approach to health.
+
+In addition to my professional and creative pursuits, I am an avid reader with a particular fondness for the Tom Clancy series. However, my reading interests are eclectic, and I enjoy exploring books from a wide range of genres. My diverse interests and background in medicine drive my goal of integrating lifestyle medicine with technology, and I am excited to continue exploring how these fields can converge to improve the health of individuals and communities. Please feel free to [contact me](mailto:nnm32@case.edu) if you have any questions or would like to discuss potential projects.
+:::
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+Cooking up a blend of flavors, stats, and mindfulness— excited to share it all with you!
+</div>
+```
