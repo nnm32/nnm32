@@ -1,0 +1,32 @@
+---
+title: "Cooking"
+---
+<div  style="margin: 30px; text-align: justify;">
+My journey into cooking began as a curious amateur, playing around with simple ingredients like Prego pasta sauce. I’d experiment in the kitchen, adding spices and herbs to make the sauce more interesting, not knowing that this small beginning would eventually spark a lifelong love for cooking. What started as a fun and somewhat chaotic hobby quickly evolved into a more serious pursuit as I tackled more complex recipes. The process of creating something from scratch and sharing it with others became both a challenge and a joy that fueled my passion for exploring the vast world of food.
+
+Today, I find immense joy in cooking and baking, especially when I get the chance to feed people. I truly believe that the way to anyone’s heart is through their stomach. Whether it’s the delicate art of Japanese cooking, the bold flavors of Indian cuisine, or the vibrant, spicy dishes of Thai and Mexican food, I enjoy immersing myself in different culinary traditions. Indian cooking, in particular, has captured my heart. I rely heavily on Dassana's Veg Recipes for guidance, as they provide detailed instructions for making flavorful, spice-rich dishes that resonate deeply with my love for bold flavors.
+
+Looking ahead, I hope to take my passion for food and turn it into something more—a cafe where food is crafted with love, fresh ingredients, and a focus on liberal use of spices. I envision a place where people can experience food made with passion, where the warmth of every dish invites connection and conversation. Coffee and food will come together as an experience, celebrating the diverse ways spices can transform ingredients into something memorable. Cooking is more than just a hobby to me; it’s a way to share stories, traditions, and a piece of my heart with others.
+</div>
+
+::: {layout-ncol=2}
+
+![](gandalf_image_1.jpg)
+<div  style="margin: 30px; text-align: justify;">
+**Image 1:** This image shows a recipe called Veg Manchurian, a popular dish made with a mix of all-purpose flour and vegetables, shaped into small balls and served in a tangy, flavorful sauce. This dish is a perfect example of the culinary fusion seen in Mumbai, the city where I was born. Mumbai is a cosmopolitan hub, blending cultures and cuisines from across India and beyond. It's a melting pot where South Indian, North Indian, West Indian, and East Indian recipes come together, creating a unique food culture that reflects the city’s diversity and vibrancy. Veg Manchurian itself embodies this fusion, combining traditional Indian ingredients with Chinese influences to create a dish that is loved by many.
+</div>
+
+![](gandalf_image_2.jpg)
+
+<div  style="margin: 30px; text-align: justify;">
+**Image 2:** The recipe here is called Black Bean Soup, a dish that holds a special place in my memories. I first encountered the world of Mexican cuisine during high school, in a Spanish class where we watched the movie *Tortilla Soup*. Beyond simply inspiring me to explore Mexican dishes, the film taught me the value of eating fresh, whole foods rather than relying on processed options. It also highlighted how food has the power to bring people together, particularly within a family setting. The shared meals, the vibrant flavors, and the sense of connection portrayed in the movie made me realize just how deeply food can shape relationships and create memorable experiences. This Black Bean Soup embodies that spirit of nourishment, bringing together simple, fresh ingredients to create something comforting and full of love.
+</div>
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+Cooking up a blend of flavors, stats, and mindfulness— excited to share it all with you!
+</div>
+```
