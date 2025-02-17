@@ -1,0 +1,37 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+      - icon: instagram
+        text: Instagram
+        href: https://www.instagram.com/nnmehta08?igsh=MXFmeDZuMnY0Z25qMg%3D%3D&utm_source=qr
+      - icon: linkedin
+        text: Linkedin
+        href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+      - icon: envelope 
+        text: Email
+        href: "mailto:nnm32@case.edu"  
+  
+---
+
+::: {#about-block}
+:::
+
+<div style="text-align: justify;">
+# Fueling Creativity: Cooking, Poetry, Meditation, Gym Life, and Coffee!
+
+My journey began with a strong passion for medicine, driven by the simple yet powerful desire to make a difference in one patient's life. When I first entered medical school, my focus was primarily on providing personalized care, one patient at a time. However, as I worked more closely with patients and had greater exposure to public health systems, I began to realize that a more holistic, systems-based approach was crucial for addressing broader health challenges. I saw the profound impact of collective health strategies, where tackling issues on a larger scale could improve the lives of many, not just individuals.
+
+As I continued to delve into medical practice, I recognized that in order to truly transform healthcare, understanding and manipulating data on a broad scale became essential. I began to appreciate how data could offer insights that were not immediately apparent and how, when handled properly, it could predict trends, guide decision-making, and enhance patient care. This realization marked a significant turning point in my journey, as it opened my eyes to the potential of data in medicine and public health.
+
+This newfound appreciation for data drove me to further my knowledge. I took a class in Biostatistics at Case Western, which was a pivotal moment in my academic career. The class ignited a deep passion within me for data analysis, and I became fascinated by the ability to use statistical tools to draw conclusions and forecast outcomes. From that point on, I became a self-proclaimed "data junkie," constantly exploring how data can revolutionize medical practices, improve patient care, and shape public health strategies.
+
+Despite my intense interest in medicine and data, I am also a person with a variety of personal passions. Cooking has always been a therapeutic outlet for me. Whenever life gets stressful, I find solace in creating new recipes, often preparing delicious meals for my wife. It’s not just about food—it's about creativity, stress relief, and joy. In addition to cooking, I enjoy sketching and painting. The images in my head often translate into artwork, giving me a space to express my creativity and unwind.
+
+While my professional and academic pursuits are diverse, my personal interests lean toward the indoors. I often joke that I am an "avid indoorsman," spending time on activities like cooking, painting, and delving into the fascinating world of data. These eclectic hobbies and interests keep me grounded, allowing me to balance the demands of my career with personal fulfillment. Ultimately, my journey is a blend of medicine, data, creativity, and a love for the simple joys in life.
+Please feel free to [contact me](mailto:nnm32@case.edu) if you have any questions or would like to discuss potential projects.
+</div>
+
+
